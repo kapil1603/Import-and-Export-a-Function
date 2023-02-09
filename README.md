@@ -7,3 +7,4 @@ Write a JS function that returns the `This is a Function` text, in the file `exp
 Import the function in the `importFunction.js` file.
 
 <b>Use Common JS module syntax</b>.
+# Import-and-Export-a-Function
